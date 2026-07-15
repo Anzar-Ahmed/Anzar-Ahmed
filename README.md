@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="cyber-card.svg" alt="Anzar Ahmed's Cyber Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/Anzar-Ahmed/Anzar-Ahmed/main/banner.svg" alt="Anzar Ahmed's Cyber Card" width="100%" />
 </p>
