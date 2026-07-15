@@ -79,42 +79,42 @@
       </text>
     </g>
 
-    <!-- Bullet Information -->
+    <!-- Bullet Information (Optimized Sequence & Text) -->
     <g transform="translate(40, 225)" font-family="-apple-system, sans-serif" font-size="17" font-weight="600" fill="#cbd5e1">
-      <text x="0" y="30" fill="#38bdf8">📍  <tspan fill="#e2e8f0">Pakistan</tspan></text>
-      <text x="0" y="70" fill="#38bdf8">🎓  <tspan fill="#e2e8f0">Cyber Security Analyst</tspan></text>
-      <text x="0" y="110" fill="#38bdf8">⚡  <tspan fill="#e2e8f0">SOC | SIEM | Threat Detection</tspan></text>
+      <!-- 1. Education/Focus (Removed Repetition) -->
+      <text x="0" y="30" fill="#38bdf8">🎓  <tspan fill="#e2e8f0">Specializing in Security Operations</tspan></text>
+      
+      <!-- 2. Core Technical Focus -->
+      <text x="0" y="70" fill="#38bdf8">⚡  <tspan fill="#e2e8f0">SOC | SIEM | Threat Detection</tspan></text>
+      
+      <!-- 3. Location (Moved to End) -->
+      <text x="0" y="110" fill="#38bdf8">📍  <tspan fill="#e2e8f0">Pakistan</tspan></text>
     </g>
 
     <!-- Divider Line -->
     <line x1="40" y1="355" x2="610" y2="355" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
 
-    <!-- Skills pills (Highly Professional Cyber Skills - 5 Pill Grid Layout) -->
+    <!-- Skills pills -->
     <g transform="translate(40, 380)" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold">
       <!-- Row 1 -->
-      <!-- Endpoint Security -->
       <g transform="translate(0, 0)">
         <rect x="0" y="0" width="135" height="32" rx="16" fill="#1e293b" stroke="rgba(168,85,247,0.4)" stroke-width="1.5"/>
         <text x="67.5" y="20" fill="#f8fafc" text-anchor="middle">Endpoint Security</text>
       </g>
-      <!-- SIEM -->
       <g transform="translate(145, 0)">
         <rect x="0" y="0" width="80" height="32" rx="16" fill="#1e293b" stroke="rgba(34,211,238,0.4)" stroke-width="1.5"/>
         <text x="40" y="20" fill="#f8fafc" text-anchor="middle">SIEM</text>
       </g>
-      <!-- Digital Forensics -->
       <g transform="translate(235, 0)">
         <rect x="0" y="0" width="135" height="32" rx="16" fill="#1e293b" stroke="rgba(16,185,129,0.4)" stroke-width="1.5"/>
         <text x="67.5" y="20" fill="#f8fafc" text-anchor="middle">Digital Forensics</text>
       </g>
 
-      <!-- Row 2 (Shifted slightly for perfect look) -->
-      <!-- Threat Intel -->
+      <!-- Row 2 -->
       <g transform="translate(50, 48)">
         <rect x="0" y="0" width="110" height="32" rx="16" fill="#1e293b" stroke="rgba(245,158,11,0.4)" stroke-width="1.5"/>
         <text x="55" y="20" fill="#f8fafc" text-anchor="middle">Threat Intel</text>
       </g>
-      <!-- Incident Response -->
       <g transform="translate(170, 48)">
         <rect x="0" y="0" width="145" height="32" rx="16" fill="#1e293b" stroke="rgba(239,68,68,0.4)" stroke-width="1.5"/>
         <text x="72.5" y="20" fill="#f8fafc" text-anchor="middle">Incident Response</text>
