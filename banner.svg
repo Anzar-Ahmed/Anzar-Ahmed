@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Banner (Aapka dynamic Midnight Toxic SVG) -->
+<!-- Header Banner (Error Free Path) -->
 <img src="banner.svg" alt="Anzar Ahmed Banner" width="100%" />
 
 # Hi 👋, I'm Anzar Ahmed
@@ -29,13 +29,13 @@
 
 ## 🛠️ Key Projects
 
-### 🛡️ [Centralized Log Monitoring System](https://github.com/Anzar-Ahmed)
+### 🛡️ [Centralized Log Monitoring System](https://github.com/Anzar-Ahmed/Anzar-Ahmed)
 Implemented an enterprise-grade log analysis and monitoring pipeline using **pfSense**, **Suricata** (IDS/IPS), and **Wazuh SIEM** for real-time alerting and endpoint threat visibility.
 
-### 🤖 [Automated Phishing Email Detector](https://github.com/Anzar-Ahmed)
+### 🤖 [Automated Phishing Email Detector](https://github.com/Anzar-Ahmed/Anzar-Ahmed)
 Developed an automated workflow utilizing **n8n** and **VirusTotal API** to extract, analyze, and parse indicators of compromise (IoCs) from suspicious emails in real-time.
 
-### 🌐 [Enterprise Network Infrastructure Simulator](https://github.com/Anzar-Ahmed)
+### 🌐 [Enterprise Network Infrastructure Simulator](https://github.com/Anzar-Ahmed/Anzar-Ahmed)
 Designed and staged an enterprise-grade secure network architecture inside **GNS3** utilizing **FortiGate VM** nodes, setting up High Availability (HA), security zones, and strict firewall policies.
 
 ---
