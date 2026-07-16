@@ -43,11 +43,11 @@ Staged a secure, multi-zone enterprise network architecture inside **GNS3** usin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card (Cyberpunk) -->
+  <!-- GitHub Stats Card (Cyberpunk Premium) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Anzar-Ahmed&show_icons=true&theme=dark&icon_color=9d4edd&text_color=cbd5e1&title_color=00ff66&bg_color=020617&hide_border=true&count_private=true" alt="Anzar's GitHub Stats" width="48%" />
   
-  <!-- GitHub Streak Card (Cyberpunk) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzar-Ahmed&theme=dark&ring=9d4edd&fire=00ff66&currStreakLabel=00ff66&sideNums=cbd5e1&bg_color=020617&hide_border=true" alt="Anzar's Streak Stats" width="48%" />
+  <!-- GitHub Streak Card (Cyberpunk Invisible Dates - No Years) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzar-Ahmed&theme=dark&ring=9d4edd&fire=00ff66&currStreakLabel=00ff66&sideNums=cbd5e1&dates=020617&bg_color=020617&hide_border=true" alt="Anzar's Streak Stats" width="48%" />
 </div>
 
 ---
