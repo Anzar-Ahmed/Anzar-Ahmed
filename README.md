@@ -15,6 +15,12 @@
 
 ### 💡 About Me
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/desktop.gif" alt="Anzar Ahmed Analyst" width="320px" />
+</p>
+
+### 💡 About Me
+
 <div align="left">
   <ul>
     <li>🎓 <b>Undergraduate B.S. Cyber Security</b> student at <b>MUET, Jamshoro, Pakistan</b></li>
@@ -28,6 +34,8 @@
     <li>⚡ <b>Fun fact:</b> Nothing gives me peace of mind like triaging a real "True Positive" alert! 🕵️‍♂️🚨</li>
   </ul>
 </div>
+
+---
 
 ---
 
