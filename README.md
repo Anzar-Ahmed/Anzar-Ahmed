@@ -13,17 +13,27 @@
 
 ---
 
-### 💡 About Me
 
-* 🎓 **Undergraduate B.S. Cyber Security** student at **MUET, Jamshoro, Pakistan**
-* 🛡️ **Focused on** Threat Hunting, Incident Response, and Security Operations (SOC)
-* ⚙️ **Currently working on** log analysis, automated threat detection, and security playbooks
-* 🏆 **Achievements:** Participated in the national cybersecurity hackathon organized by **Ignite**
-* 💻 **Hands-on with** Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation
-* 💬 **Ask me about** Blue Teaming, SIEM, Firewalls, and Threat Intelligence
-* 📫 **Reach me at** [anzarahmed.sec@gmail.com](mailto:anzarahmed.sec@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
-* ⚡ **Fun fact:** I analyze packet captures for fun! 🕵️‍♂️
+### 💡 About Me
+🎓 **Undergraduate B.S. Cyber Security** student at **MUET, Jamshoro, Pakistan**
+<br />
+🛡️ **Focused on** Threat Hunting, Incident Response, and Security Operations (SOC)
+<br />
+⚙️ **Currently working on** log analysis, automated threat detection, and security playbooks
+<br />
+🏆 **Achievements:** Participated in the national cybersecurity hackathon organized by **Ignite**
+<br />
+💻 **Hands-on with** Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation
+<br />
+💬 **Ask me about** Blue Teaming, SIEM, Firewalls, and Threat Intelligence
+<br />
+📫 **Reach me at** [anzarahmed.sec@gmail.com](mailto:anzarahmed.sec@gmail.com)
+<br />
+💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
+<br />
+⚡ **Fun fact:** I analyze packet captures for fun! 🕵️‍♂️
+
+---
 
 ---
 
