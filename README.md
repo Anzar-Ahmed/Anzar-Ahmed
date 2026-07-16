@@ -7,8 +7,6 @@
 ### 🛡️ Cyber Security Analyst | Blue Teamer
 <div align="center">
 
-<!-- Header Banner -->
-<img src="./banner.svg" alt="Anzar Ahmed Banner" width="100%" />
 
 ---
 
