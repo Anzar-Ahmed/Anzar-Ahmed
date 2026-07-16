@@ -44,7 +44,6 @@ Staged a secure, multi-zone enterprise network architecture inside **GNS3** usin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anzar-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anzar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzar-Ahmed&theme=tokyonight&hide_border=true" alt="Anzar's Streak Stats" width="48%" />
 </div>
 
 ---
