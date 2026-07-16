@@ -21,7 +21,7 @@
 * 🏆 **Achievements:** Participated in the national cybersecurity hackathon organized by **Ignite**
 * 💻 **Hands-on with** Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation
 * 💬 **Ask me about** Blue Teaming, SIEM, Firewalls, and Threat Intelligence
-* 📫 **Reach me at** anzarahmed.sec@gmail.com
+* 📫 **Reach me at** [anzarahmed.sec@gmail.com](mailto:anzarahmed.sec@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
 * ⚡ **Fun fact:** I analyze packet captures for fun! 🕵️‍♂️
 
