@@ -31,7 +31,7 @@
 <br />
 💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
 <br />
-⚡ **Fun fact:** I analyze packet captures for fun! 🕵️‍♂️
+⚡Nothing gives me peace of mind like triaging a real "True Positive" alert! 🕵️‍♂️🚨
 
 ---
 
