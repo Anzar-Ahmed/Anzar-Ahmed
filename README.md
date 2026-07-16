@@ -13,10 +13,9 @@
 ---
 
 
-### 💡 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/desktop.gif" alt="Anzar Ahmed Analyst" width="320px" />
+  <img src="https://assets.octoprofile.vercel.app/api?user=Anzar-Ahmed&theme=tokyonight" alt="Anzar's Dev Status" width="350px" />
 </p>
 
 ### 💡 About Me
