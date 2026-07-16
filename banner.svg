@@ -1,124 +1,82 @@
-<svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050b18"/>
-      <stop offset="100%" stop-color="#0a122c"/>
-    </linearGradient>
+<div align="center">
 
-    <!-- Animated Accent -->
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%">
-      <stop offset="0%">
-        <animate attributeName="stop-color" values="#a855f7;#22d3ee;#10b981;#a855f7" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#22d3ee"/>
-    </linearGradient>
+<!-- Header Banner (Aapka dynamic Midnight Toxic SVG) -->
+<img src="banner.svg" alt="Anzar Ahmed Banner" width="100%" />
 
-    <!-- Strong Glow for Visibility -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+# Hi 👋, I'm Anzar Ahmed
+### 🛡️ Cyber Security Analyst | Blue Teamer
 
-  <!-- Background -->
-  <rect width="1180" height="610" fill="url(#bg)" rx="24" stroke="rgba(34,211,238,0.15)" stroke-width="2"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Hunting%20Threats-10b981?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialization-Blue%20Teaming-9d4edd?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Karachi,%20PK-00ff66?style=for-the-badge" />
+</p>
 
-  <!-- Floating background glow circles -->
-  <circle cx="150" cy="150" r="130" fill="#a855f7" opacity="0.15" filter="url(#glow)"/>
-  <circle cx="1000" cy="450" r="150" fill="#22d3ee" opacity="0.12" filter="url(#glow)"/>
+"Building defenses, monitoring logs, and hunting threats before they strike."
 
-  <!-- LEFT PANEL: ASCII ART (ANZAR - Fully Structured) -->
-  <g transform="translate(45, 110)" font-family="monospace" font-weight="900" font-size="14" fill="url(#accent)" filter="url(#glow)">
-    <text x="0" y="30"> █████╗ ███╗   ██╗███████╗ █████╗ ██████╗ </text>
-    <text x="0" y="60">██╔══██╗████╗  ██║╚══███╔╝██╔══██╗██╔══██╗</text>
-    <text x="0" y="90">███████║██╔██╗ ██║  ███╔╝ ███████║██████╔╝</text>
-    <text x="0" y="120">██╔══██║██║╚██╗██║ ███╔╝  ██╔══██║██╔══██╗</text>
-    <text x="0" y="150">██║  ██║██║ ╚████║███████╗██║  ██║██║  ██║</text>
-    <text x="0" y="180">╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝</text>
-    
-    <!-- System Status Labels -->
-    <g transform="translate(15, 250)" font-size="13" font-weight="bold">
-      <text x="0" y="0" fill="#94a3b8" opacity="0.8">SYSTEM: ACTIVE</text>
-      <text x="0" y="25" fill="#10b981">SECURE // SEC_OPS_OK</text>
-    </g>
-  </g>
+---
 
-  <!-- RIGHT PANEL: Glassmorphism Info Card -->
-  <g transform="translate(470, 60)">
-    <!-- Main glass card -->
-    <rect x="0" y="0" width="650" height="490" rx="20" fill="rgba(15,23,42,0.6)" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+</div>
 
-    <!-- Top Header bar (Terminal Style) -->
-    <path d="M 0 20 A 20 20 0 0 1 20 0 L 630 0 A 20 20 0 0 1 650 20 L 650 50 L 0 50 Z" fill="#0f172a" fill-opacity="0.9"/>
-    <circle cx="25" cy="25" r="6" fill="#ef4444" />
-    <circle cx="45" cy="25" r="6" fill="#f59e0b" />
-    <circle cx="65" cy="25" r="6" fill="#10b981" />
-    <text x="90" y="29" fill="#64748b" font-family="monospace" font-size="13" font-weight="bold">anzarahmed@sec-ops:~</text>
+## 👤 About Me
 
-    <!-- Greeting -->
-    <text x="40" y="110" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-weight="900" font-size="34" fill="#ffffff">
-      Hi 👋 I'm Anzar Ahmed
-    </text>
+*   🎓 **Final-Year Undergraduate** pursuing a Bachelor of Science in **Cyber Security** at **Mehran University of Engineering and Technology (MUET)**.
+*   🛡️ Focus areas include **Threat Hunting**, **Incident Response**, and **Security Automation**.
+*   ⚡ Hands-on with security monitoring tools, firewalls, and network protocols.
+*   🏅 Participated in the cybersecurity hackathon organized by **Ignite**.
 
-    <!-- Dynamic Typing Roles -->
-    <g transform="translate(40, 165)" font-family="monospace" font-size="20" font-weight="900">
-      <!-- Role 1: Cyber Security Analyst -->
-      <text fill="#22d3ee" x="0" y="0">
-        &gt; Cyber Security Analyst
-        <animate attributeName="opacity" values="1;1;0;0;1" keys="0;0.45;0.50;0.95;1" dur="8s" repeatCount="indefinite"/>
-      </text>
-      
-      <!-- Role 2: Threat Hunter -->
-      <text fill="#a855f7" x="0" y="0">
-        &gt; Threat Hunter
-        <animate attributeName="opacity" values="0;0;1;1;0" keys="0;0.50;0.55;0.95;1" dur="8s" repeatCount="indefinite"/>
-      </text>
-    </g>
+---
 
-    <!-- Bullet Information (Optimized Sequence & Text) -->
-    <g transform="translate(40, 225)" font-family="-apple-system, sans-serif" font-size="17" font-weight="600" fill="#cbd5e1">
-      <!-- 1. Education/Focus (Removed Repetition) -->
-      <text x="0" y="30" fill="#38bdf8">🎓  <tspan fill="#e2e8f0">Specializing in Security Operations</tspan></text>
-      
-      <!-- 2. Core Technical Focus -->
-      <text x="0" y="70" fill="#38bdf8">⚡  <tspan fill="#e2e8f0">SOC | SIEM | Threat Detection</tspan></text>
-      
-      <!-- 3. Location (Moved to End) -->
-      <text x="0" y="110" fill="#38bdf8">📍  <tspan fill="#e2e8f0">Pakistan</tspan></text>
-    </g>
+## 🛠️ Key Projects
 
-    <!-- Divider Line -->
-    <line x1="40" y1="355" x2="610" y2="355" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
+### 🛡️ [Centralized Log Monitoring System](https://github.com/Anzar-Ahmed)
+Implemented an enterprise-grade log analysis and monitoring pipeline using **pfSense**, **Suricata** (IDS/IPS), and **Wazuh SIEM** for real-time alerting and endpoint threat visibility.
 
-    <!-- Skills pills -->
-    <g transform="translate(40, 380)" font-family="-apple-system, sans-serif" font-size="12" font-weight="bold">
-      <!-- Row 1 -->
-      <g transform="translate(0, 0)">
-        <rect x="0" y="0" width="135" height="32" rx="16" fill="#1e293b" stroke="rgba(168,85,247,0.4)" stroke-width="1.5"/>
-        <text x="67.5" y="20" fill="#f8fafc" text-anchor="middle">Endpoint Security</text>
-      </g>
-      <g transform="translate(145, 0)">
-        <rect x="0" y="0" width="80" height="32" rx="16" fill="#1e293b" stroke="rgba(34,211,238,0.4)" stroke-width="1.5"/>
-        <text x="40" y="20" fill="#f8fafc" text-anchor="middle">SIEM</text>
-      </g>
-      <g transform="translate(235, 0)">
-        <rect x="0" y="0" width="135" height="32" rx="16" fill="#1e293b" stroke="rgba(16,185,129,0.4)" stroke-width="1.5"/>
-        <text x="67.5" y="20" fill="#f8fafc" text-anchor="middle">Digital Forensics</text>
-      </g>
+### 🤖 [Automated Phishing Email Detector](https://github.com/Anzar-Ahmed)
+Developed an automated workflow utilizing **n8n** and **VirusTotal API** to extract, analyze, and parse indicators of compromise (IoCs) from suspicious emails in real-time.
 
-      <!-- Row 2 -->
-      <g transform="translate(50, 48)">
-        <rect x="0" y="0" width="110" height="32" rx="16" fill="#1e293b" stroke="rgba(245,158,11,0.4)" stroke-width="1.5"/>
-        <text x="55" y="20" fill="#f8fafc" text-anchor="middle">Threat Intel</text>
-      </g>
-      <g transform="translate(170, 48)">
-        <rect x="0" y="0" width="145" height="32" rx="16" fill="#1e293b" stroke="rgba(239,68,68,0.4)" stroke-width="1.5"/>
-        <text x="72.5" y="20" fill="#f8fafc" text-anchor="middle">Incident Response</text>
-      </g>
-    </g>
-  </g>
-</svg>
+### 🌐 [Enterprise Network Infrastructure Simulator](https://github.com/Anzar-Ahmed)
+Designed and staged an enterprise-grade secure network architecture inside **GNS3** utilizing **FortiGate VM** nodes, setting up High Availability (HA), security zones, and strict firewall policies.
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🛡️ Security & Monitoring
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Suricata-EF4444?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/pfSense-F25F22?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  <img src="https://img.shields.io/badge/VirusTotal-3949AB?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal" />
+</p>
+
+### ⚙️ Automation & Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GNS3-315E8A?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anzar-Ahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Anzar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anzar-Ahmed&theme=tokyonight&hide_border=true" alt="Anzar's Streak Stats" width="48%" />
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anzarahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
