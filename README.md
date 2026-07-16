@@ -9,18 +9,32 @@
 
 
 ---
+<div align="center">
+
+<!-- Header Banner -->
+<img src="./banner.svg" alt="Anzar Ahmed Banner" width="100%" />
+
+# Hi 👋, I'm Anzar Ahmed
+
+### Cyber Security Analyst · Blue Teamer · Security Automation Specialist
+
+Building resilient defenses and automating threat detection.
+
+</div>
+
+---
 
 ### 💡 About Me
 
-*   🎓 **Undergraduate B.S. Cyber Security** student at **MUET, Jamshoro, Pakistan**
-*   🛡️ **Focused on** Threat Hunting, Incident Response, and Security Operations (SOC)
-*   ⚙️ **Currently working on** log analysis, automated threat detection, and security playbooks
-*   🏆 **Achievements:** Participated in the national cybersecurity hackathon organized by **Ignite**
-*   💻 **Hands-on with** Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation
-*   💬 **Ask me about** Blue Teaming, SIEM, Firewalls, and Threat Intelligence
-*   📫 **Reach me at** anzarahmed.sec@gmail.com
-*   💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
-*   ⚡ **Fun fact:** I analyze packet captures for fun! 🕵️‍♂️
+* 🎓 **Undergraduate B.S. Cyber Security** student at **MUET, Jamshoro, Pakistan**
+* 🛡️ **Focused on** Threat Hunting, Incident Response, and Security Operations (SOC)
+* ⚙️ **Currently working on** log analysis, automated threat detection, and security playbooks
+* 🏆 **Achievements:** Participated in the national cybersecurity hackathon organized by **Ignite**
+* 💻 **Hands-on with** Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation
+* 💬 **Ask me about** Blue Teaming, SIEM, Firewalls, and Threat Intelligence
+* 📫 **Reach me at** anzarahmed.sec@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
+* ⚡ **Fun fact:** I analyze packet captures for fun! 🕵️‍♂️
 
 ---
 
