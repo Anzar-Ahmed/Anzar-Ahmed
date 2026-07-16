@@ -13,26 +13,31 @@
 ---
 
 
-
 <p align="center">
-  <img src="https://assets.octoprofile.vercel.app/api?user=Anzar-Ahmed&theme=tokyonight" alt="Anzar's Dev Status" width="350px" />
+  <img src="https://user-images.githubusercontent.com/74038190/206665007-8648e234-a4e2-4314-b2b9-e1e63a1379c3.gif" alt="Anzar Ahmed Analyst Desk" width="380px" />
 </p>
 
 ### 💡 About Me
 
-<div align="left">
-  <ul>
-    <li>🎓 <b>Undergraduate B.S. Cyber Security</b> student at <b>MUET, Jamshoro, Pakistan</b></li>
-    <li>🛡️ <b>Focused on</b> Threat Hunting, Incident Response, and Security Operations (SOC)</li>
-    <li>⚙️ <b>Currently working on</b> log analysis, automated threat detection, and security playbooks</li>
-    <li>🏆 <b>Achievements:</b> Participated in the national cybersecurity hackathon organized by <b>Ignite</b></li>
-    <li>💻 <b>Hands-on with</b> Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation</li>
-    <li>💬 <b>Ask me about</b> Blue Teaming, SIEM, Firewalls, and Threat Intelligence</li>
-    <li>📫 <b>Reach me at</b> <a href="mailto:anzarahmed.sec@gmail.com">anzarahmed.sec@gmail.com</a></li>
-    <li>💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/anzarahmed" target="_blank">linkedin.com/in/anzarahmed</a></li>
-    <li>⚡ <b>Fun fact:</b> Nothing gives me peace of mind like triaging a real "True Positive" alert! 🕵️‍♂️🚨</li>
-  </ul>
-</div>
+🎓 **Undergraduate B.S. Cyber Security** student at **MUET, Jamshoro, Pakistan**
+<br />
+🛡️ **Focused on** Threat Hunting, Incident Response, and Security Operations (SOC)
+<br />
+⚙️ **Currently working on** log analysis, automated threat detection, and security playbooks
+<br />
+🏆 **Achievements:** Participated in the national cybersecurity hackathon organized by **Ignite**
+<br />
+💻 **Hands-on with** Wazuh SIEM, pfSense, Suricata, Fortinet, GNS3, and n8n automation
+<br />
+💬 **Ask me about** Blue Teaming, SIEM, Firewalls, and Threat Intelligence
+<br />
+📫 **Reach me at** [anzarahmed.sec@gmail.com](mailto:anzarahmed.sec@gmail.com)
+<br />
+💼 **LinkedIn:** [linkedin.com/in/anzarahmed](https://linkedin.com/in/anzarahmed)
+<br />
+⚡ **Fun fact:** Nothing gives me peace of mind like triaging a real "True Positive" alert! 🕵️‍♂️🚨
+
+---
 
 ---
 
